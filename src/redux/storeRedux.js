@@ -3,7 +3,7 @@ import { createStore, combineReducers, applyMiddleware } from 'redux';
 import producePhotos from './reducers/reducerPhotos';
 
 //middlewarews
-import { getPhotos } from './middleWares/crud1'
+import { getPhotos } from './middleWares/server'
 
 const reducer = combineReducers({ producePhotos });
 

@@ -1,6 +1,4 @@
-//import logo from './logo.svg';
 import './App.css';
-//import reactDom from 'react-dom';
 import Photo from './component/photo'
 import Photos from './component/photos'
 import { Img } from 'react-image'
