@@ -1,0 +1,27 @@
+body{
+  background: radial-gradient(#76b2fe, #b69efe);
+  height: 100%;
+  width: 100%;
+}
+.div1 {
+  display: inline-block;
+   height:20% ;
+}
+
+.photo1{
+  align-items: center;
+  height: 500px;
+  width: 500px;
+  padding-top: 5%;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  background: transparent;
+  border: 1px solid #ccc;
+  box-shadow: 10px 10px 10px 10px #999;
+}
+.image{
+  height:100px;
+   width:100px ; 
+  
+}
